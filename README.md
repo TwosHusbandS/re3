@@ -19,7 +19,7 @@ The project has also been ported to the [Nintendo Switch](https://github.com/AGr
 We cannot build for PS2 or Xbox yet. If you're interested in doing so, get in touch with us.
 
 ## Installation
-
+ 
 - re3 requires PC game assets to work, so you **must** own [a copy of GTA III](https://store.steampowered.com/app/12100/Grand_Theft_Auto_III/).
 - Build re3 or download the latest build:
   - [Windows D3D9 MSS 32bit](https://nightly.link/GTAmodding/re3/workflows/re3_msvc_x86/master/re3_Release_win-x86-librw_d3d9-mss.zip)
